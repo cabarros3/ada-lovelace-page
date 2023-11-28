@@ -4,7 +4,7 @@ Ada Lovelace foi uma mulher extraordinária que desafiou os limites da sua époc
 
 
 ## Publicação da Página: o desafio
-A publicação do página foi um desafio proposto pela Womakers Code como etapa do processo seletivo do Bootcamp Back-End Python e Django. Para publicar a página segui os passos descritos abaixo:
+A publicação do página foi um desafio proposto pela Womakers Code como etapa do processo seletivo do Bootcamp Back-End Python e Django. Para publicação da página, seguir os passos descritos abaixo:
 1. Fazer o fork do repositório disponibilizado pela organização. Acesse [aqui](https://github.com/cyz/ada-lovelace-page);
 2. Ir ao menu "Settings" ou "Configurações"
 3. Em configurações, ir em "Code and automation" ou "Código e automação" e dentro dele procurar pela opção "Pages";
